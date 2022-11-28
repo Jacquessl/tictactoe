@@ -552,7 +552,6 @@ public class Main {
                     }
                     else{
                         y = (int)((Math.random()*9)+1);
-                        System.out.println(y);
                     }
                 }
 
